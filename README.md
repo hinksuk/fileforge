@@ -36,12 +36,14 @@ Every update is signed. FileForge checks each download against a key built into 
 
 **Working with files**
 - Explorer's own right-click menu and Explorer-style shortcuts
+- Find as you type: start typing in any folder to highlight matching names and jump between them
 - Drag-to-select, and a selection bar showing count and total size
 - A "file already exists" prompt before copying: replace, skip, keep both or rename, one file at a time or for all of them
 - Optional copy verification, which reads every copied file back and compares it
 - Undo (**Ctrl+Z**) for copy, move, delete and rename
 - Browse and restore the Recycle Bin
-- Batch rename with live preview, a job queue, folder sync and a duplicate finder
+- Batch rename with stacked rules: insert, remove, numbering, find & replace (including regex), case and extension. Names can come from photo and music details such as date taken, camera, artist and title. Live preview, saved presets and undo.
+- A job queue, folder sync and a duplicate finder
 
 **Viewing**
 - A preview pane for images, video, audio, PDF, text and code
@@ -54,6 +56,9 @@ Every update is signed. FileForge checks each download against a key built into 
 - FTP, FTPS and SFTP, and phones and cameras (MTP)
 
 **Other**
+- Optionally start with Windows: open, minimised on the taskbar, or in the tray only
+- Copy progress on the taskbar button, and a pop-out jobs window that can stay on top
+- A tray icon: right-click it to jump straight to any of your favourites, and optionally keep FileForge running there when the window is closed
 - Can be set as the default file manager, so folders you open elsewhere open in FileForge
 - Open PowerShell, Command Prompt or Windows Terminal in the current folder
 - A scripting engine and built-in tools: image conversion, checksums and secure delete
