@@ -57,6 +57,7 @@ Every update is signed. FileForge checks each download against a key built into 
 
 **Other**
 - Optionally start with Windows: open, minimised on the taskbar, or in the tray only
+- A transfer window for copies and moves: current-file and total progress, time remaining, a live speed graph, Skip, Pause and Cancel
 - Copy progress on the taskbar button, and a pop-out jobs window that can stay on top
 - A tray icon: right-click it to jump straight to any of your favourites, and optionally keep FileForge running there when the window is closed
 - Can be set as the default file manager, so folders you open elsewhere open in FileForge
